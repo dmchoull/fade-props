@@ -11,7 +11,6 @@
     "fade"
   ],
   "main": "index.js",
-  "module": "src/fade-props.js",
   "scripts": {
     "start": "webpack-dev-server --progress",
     "build": "webpack -p",
