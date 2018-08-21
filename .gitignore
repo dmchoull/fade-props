@@ -3,6 +3,5 @@ FadeProps.js
 .DS_Store
 demo/js/
 .tern-project
-index.js
 npm-debug.log
 .npmignore
